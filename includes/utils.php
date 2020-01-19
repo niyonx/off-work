@@ -115,7 +115,7 @@ class DatabaseMySql
     protected $dbpass;
     protected $conn;//this variable stores the connection to db
     
-    public function __construct($dbserver='localhost', $dbname='LMS', $dbuser='root', $dbpass='password'){
+    public function __construct($dbserver='localhost', $dbname='hrm', $dbuser='root', $dbpass='password'){
        
         $this->set_config($dbserver
                          ,$dbname
