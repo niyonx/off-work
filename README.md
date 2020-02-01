@@ -29,3 +29,10 @@ Users can also have an overview of the details of everyone in the company, verif
 ![User Details](https://github.com/niyonx/off-work/blob/master/uploads/user_details.png)
 ![Leave Balance](https://github.com/niyonx/off-work/blob/master/uploads/leave_balance.png)
 ![Holidays](https://github.com/niyonx/off-work/blob/master/uploads/holidays.png)
+
+# How to
+
+- Install LAMP (Linux, Apache, MySQL, PHP) server.
+- Run SQL file
+- Put code in /var/www/html/
+- Open browser
